@@ -17,3 +17,4 @@ async function startServer() {
 startServer();
 
 // pws 22 juli 2026
+// praktikum 5
